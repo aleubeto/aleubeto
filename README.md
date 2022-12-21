@@ -16,9 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=aleubeto&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aleubeto&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleubeto&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aleubeto&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleubeto&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleubeto&langs_count=8&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleubeto&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
