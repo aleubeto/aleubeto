@@ -3,7 +3,7 @@
 
 ## About me
 
-<img align="right" width="50%" src="code.svg">
+<img align="right" width="50%" src="code.png">
 
 💻 Currently in my last year of software engineering<br>👀 Looking to collaborate on Web development and AI projects<br>🐍 Learning data science and machine learning with python<br>🌍 An earthling born in Venezuela
 
