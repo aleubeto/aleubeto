@@ -2,7 +2,7 @@
 
 ## About me
 
-<div style="display:flex; justify-content: space-between">
+<div markdown="1" id="container "style="display:flex; justify-content: space-between">
 
 <div markdown="1" id="section1" style="width:45%">
 
