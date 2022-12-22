@@ -3,6 +3,7 @@
 
 #### *A software developer eager to collaborate and learn new things.*
 </div>
+
 ## About me
 
 <img align="right" width="50%" src="code.png">
