@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-ubeto-yañez)
 
+#### *A software developer eager to collaborate and learn new things.*
+
 ## About me
 
 <img align="right" width="50%" src="code.png">
