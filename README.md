@@ -1,8 +1,7 @@
 # 🤟 EpAle!
 
-## About me
-
 + 💻 Currently in my last year of software engineering
++ 🚀 Student at Tec de Monterrey
 + 👀 Looking to collaborate on Web development and AI projects
 + 🐍 Interested in Data science and Machine learning with Python
 + 🌍 An earthling born in Venezuela
