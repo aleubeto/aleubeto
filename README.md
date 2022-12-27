@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/lucyanovidio">
+<a href="https://www.linkedin.com/in/alejandro-ubeto-135553250/">
     <img width="35px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />
 </a>
 
